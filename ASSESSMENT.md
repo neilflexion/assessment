@@ -1,5 +1,5 @@
 ## Instructions
-Complete the two sections below. Submit the answers as a pull request or email a patch file.
+Complete the two sections below. Email a git patch file when completed.
 
 ## MySQL
 Answer the following questions in the space provided.
